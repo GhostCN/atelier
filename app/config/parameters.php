@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => 'localhost',
+    'database_port' => '8888',
+    'database_name' => 'atelier',
+    'database_user' => 'root',
+    'database_password' => 'root',
+    'database_prefix' => 'pss_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => '7k3dar6BWpUkIL001PrzXhLHZKJZZdXvyfmOPcTpFXKZDMpmiNfExQjJ',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2020-10-17',
+    'locale' => 'fr-FR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => '8GN1TRXC8utNtfIZsMAgE9XL0jGGBTrZtSsiPEhkRZII1TwpMHWs2IHS',
+    'cookie_iv' => 'eojFc7AY',
+    'new_cookie_key' => 'def00000b4a4010a38fa09f51354f639007defd7c09f7007500aeda3c82fa049a623ccc0d48fd639a124108651b97ece43eb1d23572b3bdc9310cb16424411ab65ba57d2',
+  ),
+);
